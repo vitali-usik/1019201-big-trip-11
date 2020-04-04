@@ -1,6 +1,5 @@
 # Личный проект «Большое путешествие» [![Build status][travis-image]][travis-url]
 
-* Студент: [Anastasia Germanova](https://up.htmlacademy.ru/ecmascript/11/user/1019201).
 * Наставник: [`Виталий Усик`] (https://htmlacademy.ru/profile/id235226).
 
 ---
